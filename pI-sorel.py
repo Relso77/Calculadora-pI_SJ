@@ -570,4 +570,5 @@ menu_bar.add_cascade(label="Ayuda", menu=menu_ayuda)
 root.config(menu=menu_bar)
 print("Esta es la rama de desarrollo dev")
 # Ir trabajando en la versión en inglés.
+# trabajan en el tamaño de los fonts para mejor visualización
 root.mainloop()
