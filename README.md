@@ -24,7 +24,7 @@ Desde el menu -pKa usados puedes seleccionar los siguientes valores de pKa:
    - a) *Libro de Lehninger*: valores experimentales clásicos.
    - b) Valores de pKa modificados del libro de Lehninger (se toman en cuenta que ciertos efectos inductivos se reducen en intensidad con la formación del enlace peptídico)
    - c) Valores customizados.
-Mas detelles en la sección: Selección de valores de pKa
+Mas detalles en la sección: Selección de valores de pKa
 
 3. **Elige el método para obtener el pI** .
    - a) → *Calcular pI método jerárquico (Jatunov)* para estimar el punto isoeléctrico con razonamiento secuencial. Una descripción breve del método jerárquico se encuentra en la sección - Justificación del Método “Jatunov”.
